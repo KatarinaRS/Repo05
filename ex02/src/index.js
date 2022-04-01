@@ -5,8 +5,8 @@ function main() {
     // Only change code above this line
 
     return {
-        myFirstString,
-        mySecondString
+      myFirstString,
+      mySecondString
     };  
 }
 
